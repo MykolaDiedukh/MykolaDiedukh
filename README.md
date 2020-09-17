@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35"/>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35"/>
-<i class="devicon-tomcat-line"></i>
 
 </br>
 </br>
@@ -35,3 +34,10 @@ Here are some ideas to get you started:
 
 </br>
 </br>
+
+### Github Stats: 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mykola Diedukh&solarized-light solarized-light" alt="Mykola Diedukh"/>
+
+### Most Used languages: 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mykola Diedukh&layout=compact&hide=html" alt="Mykola Diedukh" />

@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### Github Stats: 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mykola Diedukh&solarized-light solarized-light" alt="Mykola Diedukh"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MykolaDiedukh&solarized-light solarized-light" alt="Mykola Diedukh"/>
 
 ### Most Used languages: 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mykola Diedukh&layout=compact&hide=html" alt="Mykola Diedukh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykolaDiedukh&layout=compact&hide=html" alt="Mykola Diedukh" />
